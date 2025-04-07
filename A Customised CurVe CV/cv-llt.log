@@ -1,0 +1,198 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.13)  23 MAR 2025 20:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Jayz/Documents/aaMode/CV/A Customised CurVe CV/cv-llt"
+(c:/Users/Jayz/Documents/aaMode/CV/A Customised CurVe CV/cv-llt.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (c:/texlive/2022/texmf-dist/tex/latex/curve/curve.cls
+Document Class: curve 2010/12/14 v1.16 Curriculum Vitae class for LaTeX2e
+(c:/texlive/2022/texmf-dist/tex/latex/carlisle/ltxtable.sty
+Package: ltxtable 2021/06/13 v0.4 longtable/tabularx merge (DPC)
+ (c:/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (c:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen138
+\ar@mcellbox=\box50
+\extrarowheight=\dimen139
+\NC@list=\toks16
+\extratabsurround=\skip47
+\backup@length=\skip48
+\ar@cellbox=\box51
+)
+\TX@col@width=\dimen140
+\TX@old@table=\dimen141
+\TX@old@col=\dimen142
+\TX@target=\dimen143
+\TX@delta=\dimen144
+\TX@cols=\count181
+\TX@ftn=\toks17
+) (c:/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count182
+\LTcapwidth=\dimen145
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count183
+\LT@rows=\count184
+\c@LT@tables=\count185
+\c@LT@chunks=\count186
+\c@table=\count187
+\LT@p@ftn=\toks18
+)) (c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count188
+\calc@Bcount=\count189
+\calc@Adimen=\dimen146
+\calc@Bdimen=\dimen147
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count190
+\calc@Cskip=\skip55
+) (c:/texlive/2022/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2020/09/29 v0.8a Hooks for input files
+ (c:/texlive/2022/texmf-dist/tex/latex/filehook/filehook-2020.sty
+Package: filehook-2020 2020/09/29 v0.8a Hooks for input files
+))
+\@almosttextwidth=\skip56
+\subrubricbeforespace=\skip57
+\subrubricspace=\skip58
+\rubricspace=\skip59
+\rubricafterspace=\skip60
+\headerspace=\skip61
+\photosep=\skip62
+\photo@width=\skip63
+\leftheader@width=\skip64
+\rightheader@width=\skip65
+\titlespace=\skip66
+\c@bibcount=\count191
+\c@bibtotal=\count192
+ (c:/texlive/2022/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)) (./settings.sty (c:/texlive/2022/texmf-dist/tex/latex/silence/silence.sty
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error messages
+\sl@Save=\count193
+\sl@StateNumber=\count194
+\sl@MessageCount=\count195
+\sl@Casualties=\count196
+\sl@Filter=\toks19
+\sl@Message=\toks20
+\sl@UnexpandedMessage=\toks21
+\sl@Mess@ge=\toks22
+\sl@WarningCount=\count197
+\sl@WarningNumber=\count198
+\sl@WarningCasualties=\count199
+\sl@TempBOW=\toks23
+\sl@BankOfWarnings=\toks24
+LaTeX Info: Redefining \GenericWarning on input line 433.
+\sl@ErrorCount=\count266
+\sl@ErrorNumber=\count267
+\sl@ErrorCasualties=\count268
+\sl@TempBOE=\toks25
+\sl@BankOfErrors=\toks26
+LaTeX Info: Redefining \GenericError on input line 601.
+) (c:/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+ (c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (c:/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks27
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (c:/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count269
+\U@D=\dimen150
+\l@unhyphenated=\language87
+ (c:/texlive/2022/texmf-dist/tex/generic/babel/xebabel.def (c:/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+\bbl@dirlevel=\count270
+ (c:/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+)) (c:/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty (c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count271
+\l__color_backend_stack_int=\count272
+\g__color_backend_stack_int=\count273
+\g__graphics_track_int=\count274
+\l__pdf_internal_box=\box57
+\g__pdf_backend_object_int=\count275
+\g__pdf_backend_annotation_int=\count276
+\g__pdf_backend_link_int=\count277
+))
+Package: fontawesome5 2021/06/04 v5.15.3 Font Awesome 5
+ (c:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+) (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (c:/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty
+Package: fontawesome5-utex-helper 2021/06/04 v5.15.3 uTeX helper for fontawesome5
+LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on input line 69.
+ (c:/texlive/2022/texmf-dist/tex/latex/fontawesome5/tufontawesomefree.fd)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on input line 70.
+ (c:/texlive/2022/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.fd)))
+
+! LaTeX Error: File `simpleicons.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+./settings.sty:33: Emergency stop.
+<read *> 
+         
+l.33 ^^M
+        
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 4518 strings out of 476179
+ 72657 string characters out of 5813072
+ 380781 words of memory out of 5000000
+ 25238 multiletter control sequences out of 15000+600000
+ 469283 words of font info for 31 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 80i,0n,91p,331b,119s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.

@@ -1,0 +1,120 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[top=0.75in, bottom=0.2in, left=0.35in, right=0.35in]{geometry}
+\usepackage{graphicx}  % 用于插入图片
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage{enumitem}
+\usepackage{palatino}
+\usepackage{tabularx}
+\usepackage[UTF8]{ctex}  % 支持中文
+\fontfamily{SansSerif}
+\selectfont
+
+\usepackage[T1]{fontenc}
+\usepackage
+%[ansinew]
+[utf8]
+{inputenc}
+
+\usepackage{color}
+\definecolor{mygrey}{gray}{0.82}
+\textheight=9.75in
+\raggedbottom
+
+\setlength{\tabcolsep}{0in}
+\newcommand{\isep}{-2 pt}
+\newcommand{\lsep}{-0.5cm}
+\newcommand{\psep}{-0.6cm}
+\renewcommand{\labelitemii}{$\circ$}
+
+\pagestyle{empty}
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\small \colorbox{mygrey}{\begin{minipage}{0.99\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[3]{
+\begin{tabular*}{6.62in}{l @{\extracolsep{\fill}} r}
+	\textsc{{\textbf{#1}}} & \textsc{\textit{[#2]}} \\
+\end{tabular*}\vspace{-8pt}}
+%-----------------------------------------------------------
+
+\begin{document}
+
+% Header with Photo
+\begin{table}
+    \begin{minipage}{0.15\linewidth}
+        % 插入照片
+        \includegraphics[width=\linewidth]{pic.png}  % 照片路径
+    \end{minipage}
+    \begin{minipage}{0.65\linewidth}
+        \setlength{\tabcolsep}{70pt}
+        \def\arraystretch{1.15}
+        \begin{tabular}{ll}
+            \textbf{\Large{张文杰}}  &  {17704240848} \\
+            \textbf{香港科技大学} & \textbf{生命科学 \& 化学} \\
+            中共党员 &  \\
+        \end{tabular}
+    \end{minipage}\hfill
+\end{table}
+
+% Contact Information
+\noindent \resheading{\textbf{联系方式}}\\[-0.3cm]
+\begin{itemize}[noitemsep,nolistsep]
+    \item 邮箱: 17704240848@163.com
+    \item 微信: 17704240848
+    \item 电话: 17704240848
+    \item GitHub: jayzyzy
+\end{itemize}
+
+% Education
+\noindent \resheading{\textbf{教育背景}}\\[-0.3cm]
+\begin{itemize}[noitemsep,nolistsep]
+    \item \textbf{香港科技大学} \hfill \emph{2023年7月 - 2028年7月（预计）} \\
+    生命科学部博士在读 \\
+    导师: 廖毅
+
+    \item \textbf{上海科技大学} \hfill \emph{2019 - 2023} \\
+    专业: 化学
+\end{itemize}
+
+% Skills
+\noindent \resheading{\textbf{基本技能}}\\[-0.3cm]
+\begin{itemize}[noitemsep,nolistsep]
+    \item \textbf{编程语言}: Python (6+年), STATA (4+年)
+    \item \textbf{工具}: Wind (5+年), Excel (5+年), Linux (6+年)
+\end{itemize}
+
+% Research Experience
+\noindent \resheading{\textbf{课题组经历}}\\[-0.3cm]
+\begin{itemize}[noitemsep,nolistsep]
+    \item \textbf{理论模拟方向} \hfill \emph{上海科技大学} \\
+    使用 LAMMPS, Gromacs 等分子动力学程序模拟材料电化学催化性质、蛋白质折叠、药物结合等。 \\
+    技能: 初步设计药物分子，筛查靶点
+
+    \item \textbf{实验方向} \hfill \emph{上海科技大学} \\
+    药物合成 \\
+    技能: 有机化学操作，细胞房基本实验技能，蛋白质分析技术
+
+    \item \textbf{系统生物学实验室} \hfill \emph{香港科技大学} \\
+    利用微流控技术和荧光显微成像技术，完成单细胞级别的高通量（数万细胞/次实验）的筛查和基因回路研究。
+\end{itemize}
+
+% Internship Experience
+\noindent \resheading{\textbf{实习经历}}\\[-0.3cm]
+\begin{itemize}[noitemsep,nolistsep]
+    \item \textbf{数据分析师} \hfill \emph{上海退格数字科技有限公司} \\
+    负责运营端后台数据采集分析。
+    \item \textbf{投资经理助理} \hfill \emph{上海联升投资管理有限公司} \\
+    协助投资经理完成行业综合分析和初创企业分析，撰写具有参考价值的报告。
+\end{itemize}
+
+% Awards and Certificates
+\noindent \resheading{\textbf{所获奖项及证书}}\\[-0.3cm]
+\begin{itemize}[noitemsep,nolistsep]
+    \item 2019-2020年度优秀学生 \hfill \emph{上海科技大学}
+    \item 质量管理体系（ISO 9001:2015）培训证书 \hfill \emph{上海科技大学}
+    \item 医疗器械质量管理体系（ISO 13485:2016）培训证书 \hfill \emph{上海科技大学}
+\end{itemize}
+
+\end{document}
